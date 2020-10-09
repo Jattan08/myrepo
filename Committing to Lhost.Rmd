@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
  Hi Jatta!  
  
  
- 
+Added ggplot
 ```{r}
 # install.packages("ggplot2")
 # load package and data
